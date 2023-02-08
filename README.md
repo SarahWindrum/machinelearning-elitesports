@@ -1,4 +1,4 @@
-MSc Project on improving performance in elite sports using machine learning
+MSc Project - Improving Performance in Elite Sports using Machine Learning
 
 Machine learning is gaining much attention in elite sports and for a wide range of different applications - including performance, training, injury prevention, and more recently social media brand management. The academic focus over the past few years has been on football, particularly the Australian and English Football Leagues, and using machine learning to predict outcomes; select the right players; and prevent injury. Constantinou and Fenton have written most extensively over the last decade on how to apply machine learning in football performance predictions from the perspective of commercial opportunity to calculate more accurate odds for gambling companies. Their ‘pi-football’ model predicts total league points for a team over the season comparing favourably to other methods used currently in the industry by eliminating bias.
 
